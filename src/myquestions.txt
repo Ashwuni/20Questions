@@ -1,0 +1,15 @@
+Q: Is it a vegetable? 
+Q: Is it grown underground?
+Q: Is it a sphere?
+A: Onion
+Q: Can it be mashed?
+A: Potato
+A: Carrot
+A: Celery
+Q: Is it blue?
+A: Blueberry
+Q: Does it grow on a tree? 
+Q: Does it share a name with a famous tech company?
+A: Apple
+A: Cherry
+A: Strawberry
